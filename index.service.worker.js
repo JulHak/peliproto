@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791458557|7467770343';
+const CACHE_VERSION = '1791582828|18497465029';
 /** @type {string} */
 const CACHE_PREFIX = 'messupeli-proto-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
